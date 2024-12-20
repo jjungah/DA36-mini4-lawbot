@@ -93,7 +93,7 @@
 1. streamlit 시연 이미지
 ![시연 이미지](readme_img/streamlit.png)
 
-- 이미지 클릭
+2. 시연 영상 (이미지 클릭)
 [![시연 영상](readme_img/video.png)](https://youtu.be/0VkLUuDc6FA)
 
 ------
