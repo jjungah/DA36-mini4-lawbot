@@ -1,4 +1,4 @@
-# DA36-mini4-app3
+# DA36-mini4-LawBot
 
 ![대문 이미지](readme_img/main.png)
 
