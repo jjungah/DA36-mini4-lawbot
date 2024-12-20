@@ -355,4 +355,10 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# DB 파일 무시
+*.sqlite3
+*.bin
+# 특정 DB 폴더 무시
+hyeyoung/DB/
+
 # End of https://www.toptal.com/developers/gitignore/api/python,pycharm,windows,macos
